@@ -1,4 +1,4 @@
-# ECommerceApp
+# Custom Appbar / Sliver appbar / collpasing toolbar
 
 A new Flutter project.
 
